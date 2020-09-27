@@ -57,7 +57,6 @@ CREATE TABLE `tienda` (
   `nombre_tienda` varchar(255) NOT NULL,
   `fecha` date NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
-
 --
 -- Dumping data for table `tienda`
 --
