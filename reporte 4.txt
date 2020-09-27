@@ -1,0 +1,5 @@
+select emple.nombre,
+       jefe.nombre as 'Jefe'
+  from empelados emple
+  left join empelados jefe
+    on jefe.id_empelados = emple.id_jefe;
