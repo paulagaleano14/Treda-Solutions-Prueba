@@ -17,11 +17,11 @@ Pasos para desplegar el archivo metodos:
 4. Descargar, extraer el proyecto y ubicarlo en la dirección: c:/xampp/htdocs/ o c:/wamp/www/
 5. Correr xampp o wamp y abrir el navegador en la ruta localhost:8080/metodos.php
 
-Pasos para desplegar el archivo Reporte 1:
+Pasos para desplegar el los archivos Reporte *:
 1. Descargar el archivo  Reporte 1.php.
 2. Desacargar xampp o wamp para hacer una prueba local.
 3. Tener Php 7
 4. Descargar, extraer el proyecto y ubicarlo en la dirección: c:/xampp/htdocs/ o c:/wamp/www/
-5. Descargar el archivo prueba_treda_sql.sql
+5. Descargar el archivo prueba_treda_sql.sql , reporte_2.sql , reporte_3 o reporte_4 respectivamente.
 6. Importar el archivo sql en mySQL (se usó phpMyAdmin).
-7. Correr xampp o wamp y abrir el navegador en la ruta localhost:8080/Reporte 1.php
+7. Correr xampp o wamp y abrir el navegador en la ruta localhost:8080/Reporte *.php
